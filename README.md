@@ -20,6 +20,52 @@ Advanced Dank Memer self-bot! Supports slash commands, incredibly strong, reliab
   2. Run the bot and have it ready for you.
   3. To use the autoBuy function, you must open the Shop View embed and select the menu to Coin Shop. Otherwise, the bot won't work correctly!
 
+# Installation
+Download this Repository
+open tokens.txt
+Hit CTRL+A then type/paste the channel ID then a space then the token 
+# How to get channel ID (sub-part of Installation)
+Getting Channel ID:
+Enable Developer Mode:
+
+Open Discord and go to User Settings.
+Navigate to the "Appearance" tab.
+Scroll down to the "Advanced" section.
+Toggle on "Developer Mode."
+Copy Channel ID:
+
+Right-click on the channel you want to get the ID for.
+Click on "Copy ID" to copy the channel's ID to your clipboard.
+# How to get Token (sub-part of Installation) 
+[Latest how to get token](https://www.youtube.com/results?search_query=how+to+get+token+id+in+discord&sp=EgIIBQ%253D%253D)
+
+the top result should do 
+# Real installation 
+[Download NodeJS](https://nodejs.org/en/download)
+# How to open cmd correctly (sub-part of Real installation) 
+Go to the Donkzz folder
+
+https://github.com/sarimwaniR/Donkzz/assets/101258901/69bc7691-d589-4759-a337-9f6e124c0b30
+
+# Running of commands (sub-part of Installation)
+Run the following commands in your shell/console:
+
+```bash
+npm i
+```
+then 
+```bash
+npm audit fix --force
+```
+To start the self-bot, run the following command in your shell/console:
+
+```bash
+node .
+
+```
+To update the bot run
+```bash     
+
 # Credits
   1. This bot is forked, and rewritten from TahaGorme/slashy. Give them some credit.
   2. Also, this bot has been added many functions from the old version, like supporting work minigames, auto-join global DMC giveaways, auto scratch, and support webhooks!
